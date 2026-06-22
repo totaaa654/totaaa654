@@ -1,26 +1,26 @@
 <div align="center">
 
-# Hi there, I'm Jozza Galang 👋
+# Hi, I'm Jozza Galang 👋
 
 ### Computer Engineering Graduate
 
-#### Technology Enthusiast • Software Development • Cybersecurity • QA Testing • CI/CD • DevOps
+#### Technology Enthusiast • Software Development • Web Development • Cybersecurity • QA Testing • CI/CD • DevOps
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Computer+Engineering+Graduate;Technology+Enthusiast;Web+Development;Cybersecurity;QA+Testing;CI%2FCD+and+DevOps;Always+Learning+New+Technologies" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Computer+Engineering+Graduate;Technology+Enthusiast;Software+Development;Web+Development;Cybersecurity;QA+Testing;CI%2FCD+and+DevOps;Always+Learning+New+Technologies" />
 
-<p>
-  <a href="https://www.linkedin.com/in/jozza-galang-20aa14247">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
-  </a>
-  <a href="https://jozzagalangportfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-black?logo=vercel" />
-  </a>
-  <a href="mailto:jozzagalang@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" />
-  </a>
-</p>
+<br>
+
+<a href="https://www.linkedin.com/in/jozza-galang-20aa14247">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://jozzagalangportfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel" />
+</a>
+
+<a href="mailto:jozzagalang@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+</a>
 
 </div>
 
@@ -28,16 +28,18 @@
 
 ## 🚀 About Me
 
-I am a Computer Engineering graduate passionate about technology, software development, cybersecurity, quality assurance, and modern software delivery practices. I enjoy building solutions that solve real-world problems while continuously learning new tools, frameworks, and technologies.
+I'm a Computer Engineering graduate passionate about technology, software development, and continuous learning.
+
+My interests span across software engineering, web development, cybersecurity, quality assurance, and modern software delivery practices. I enjoy building solutions that solve real-world problems while continuously improving my technical skills.
 
 * 🎓 Bachelor of Science in Computer Engineering
-* 🌐 Interested in Software & Web Development
-* 🔒 Exploring Cybersecurity and Secure Development Practices
-* 🧪 Learning Software Quality Assurance and Testing
-* ⚙️ Interested in CI/CD and DevOps Workflows
+* 🌐 Software & Web Development
+* 🔒 Cybersecurity
+* 🧪 Quality Assurance Testing
+* ⚙️ CI/CD & DevOps
 * 📱 Mobile Application Development
-* 🤖 Embedded Systems and IoT
-* 📚 Continuous Learner
+* 🤖 Embedded Systems & IoT
+* 📚 Continuous Learning
 
 ---
 
@@ -86,20 +88,23 @@ Sensor-Based Dish Spoilage Detection System with Mobile Application Integration 
 
 ### 🏫 BulSU College of Engineering Web Portal
 
-A web portal developed using React and TypeScript to improve access to academic information and services.
+Developed using React and TypeScript to improve access to academic information and services.
 
 ### 🌐 Personal Portfolio Website
 
-A modern portfolio website showcasing projects, certifications, technical skills, and experience.
+A modern portfolio website showcasing projects, certifications, skills, and experience.
+
+🔗 Portfolio:
+https://jozzagalangportfolio.vercel.app/
 
 ---
 
 ## 📜 Certifications
 
-* Cisco Networking Academy – Introduction to Cybersecurity
-* Cisco Networking Academy – Networking Basics
-* Huawei ICT Academy – Cloud Computing
-* Huawei ICT Academy – Overview of Artificial Intelligence
+* Cisco Networking Academy — Introduction to Cybersecurity
+* Cisco Networking Academy — Networking Basics
+* Huawei ICT Academy — Cloud Computing
+* Huawei ICT Academy — Overview of Artificial Intelligence
 
 ---
 
@@ -107,9 +112,9 @@ A modern portfolio website showcasing projects, certifications, technical skills
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JozzaGalang&show_icons=true&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=totaaa654&show_icons=true&hide_border=true&rank_icon=github" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JozzaGalang&layout=compact&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=totaaa654&layout=compact&hide_border=true" />
 
 </div>
 
@@ -131,17 +136,28 @@ A modern portfolio website showcasing projects, certifications, technical skills
 
 ## 📫 Connect With Me
 
-💼 LinkedIn: https://www.linkedin.com/in/jozza-galang-20aa14247
+💼 LinkedIn
+https://www.linkedin.com/in/jozza-galang-20aa14247
 
-🌐 Portfolio: https://jozzagalangportfolio.vercel.app/
+🌐 Portfolio
+https://jozzagalangportfolio.vercel.app/
 
-📧 Email: [jozzagalang@gmail.com](mailto:jozzagalang@gmail.com)
+📧 Email
+[jozzagalang@gmail.com](mailto:jozzagalang@gmail.com)
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile! 🚀
+### 🚀 Open to Opportunities
+
+Software Development • Web Development • QA Testing • Technology-related Roles
+
+</div>
+
+---
+
+<div align="center">
 
 *"Technology is a continuous journey of learning, building, and improving."*
 
