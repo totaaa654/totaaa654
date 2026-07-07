@@ -108,15 +108,13 @@ https://jozzagalangportfolio.vercel.app/
 
 ---
 
-## 📈 GitHub Statistics
+## 📊 GitHub Overview
 
-<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=totaaa654&theme=tokyonight" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=totaaa654&show_icons=true&hide_border=true&rank_icon=github" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=totaaa654&theme=tokyonight" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=totaaa654&layout=compact&hide_border=true" />
-
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=totaaa654&theme=tokyonight" />
 
 ---
 
