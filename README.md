@@ -138,11 +138,9 @@ A modern portfolio showcasing projects, technical skills, certifications, and ex
 
 ---
 
-# 🐍 Feeding Time
+# 🐍 Contribution Activity
 
 <div align="center">
-
-> *My commits keep the snake well-fed.*
 
 <picture>
   <source
@@ -156,10 +154,8 @@ A modern portfolio showcasing projects, technical skills, certifications, and ex
   <img
     alt="GitHub Contribution Snake"
     src="https://raw.githubusercontent.com/totaaa654/totaaa654/output/github-contribution-grid-snake-dark.svg"
-    width="100%"
   />
 </picture>
 
 </div>
 
----
