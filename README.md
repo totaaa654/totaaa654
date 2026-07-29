@@ -14,11 +14,11 @@ Building modern web applications with clean design, practical solutions, and att
 
 <br>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://jozzagalangportfolio.vercel.app/">
 <img src="https://img.shields.io/badge/🌐%20Portfolio-58A6FF?style=for-the-badge&labelColor=161B22&color=58A6FF"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/jozza-galang-20aa14247">
 <img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&labelColor=161B22"/>
 </a>
 
