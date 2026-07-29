@@ -1,8 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12,20,24&section=header"/>
 
-<img src="assets/capybara.gif" width="900" alt="Coding Capybara"/>
+<img src="assets/capybara.gif" width="300" alt="Coding Capybara"/>
 
 # Hi, I'm Jozza Galang 👋
 
